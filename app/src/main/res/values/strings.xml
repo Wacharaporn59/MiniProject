@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">miniProject</string>
+    <string name="head_text">ิbook of parking</string>
+    <string name="licenseHint">ทะเบียนรถ</string>
+    <string name="brandHint">ยี่ห้อ</string>
+    <string name="nameHint">ชื่อเจ้าของรถ</string>
+    <string name="blank">blank</string>
+</resources>
